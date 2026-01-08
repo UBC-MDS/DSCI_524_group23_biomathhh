@@ -20,7 +20,7 @@ Biomathhh is a Python package designed to efficiently provide common mathematica
 
 -   **calculate_dilution**: Performs dilution and concentration calculations using the C₁V₁ = C₂V₂ formula. Helps researchers determine volumes and concentrations needed for preparing solutions, dilutions, and experimental reagents.
 
--   **PH FUNC NAME**: Converts between pH values and hydrogen ion concentrations ([H⁺]).
+-   **calculate_pH**: Converts between pH values and hydrogen ion concentrations ([H⁺]).
 
 -   **SHAN WIEN FUNC NAME**: Computes the Shannon-Wiener Diversity Index (H') from species abundance data. This metric measures biodiversity in ecological communities.
 
