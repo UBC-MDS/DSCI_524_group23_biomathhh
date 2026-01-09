@@ -22,7 +22,7 @@ Biomathhh is a Python package designed to efficiently provide common mathematica
 
 -   **calculate_pH**: Converts between pH values and hydrogen ion concentrations ([H⁺]).
 
--   **SHAN WIEN FUNC NAME**: Computes the Shannon-Wiener Diversity Index (H') from species abundance data. This metric measures biodiversity in ecological communities.
+-   **sw_diversity_index**: Computes the Shannon-Wiener Diversity Index (H') from species abundance data. This metric measures biodiversity in ecological communities.
 
 ## Python Ecosystem
 
